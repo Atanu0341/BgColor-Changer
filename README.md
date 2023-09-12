@@ -8,12 +8,12 @@ Follow these steps to get the project up and running on your local machine:
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/color-changer-vite-react.git
+git clone https://github.com/your-username/BgColor-Changer.git
 ```
 ### Navigate to the project folder:
 
 ```bash
-cd color-changer-vite-react
+cd BgColor-Change
 ```
 ### Install dependencies:
 
